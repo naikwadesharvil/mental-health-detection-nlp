@@ -1,0 +1,8 @@
+{
+  "model": "tfidf_logreg",
+  "val_accuracy": 0.881578947368421,
+  "val_precision": 0.8945945945945946,
+  "val_recall": 0.8275,
+  "val_f1": 0.8597402597402597,
+  "val_roc_auc": 0.95531494140625
+}
